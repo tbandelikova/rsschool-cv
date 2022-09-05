@@ -10,7 +10,9 @@
 -----
 ### Summary
 I'm an entry-level frontend developer who wants to learn new skills and motivated to work hard. Previous work experience has taught me to responsibly plan my schedule and meet deadlines. I'm patient and diligent in work and study.
-A career in this profession gives a possibility to work remotely and constantly improve your skills. I'm ready to develop further in a new field with an active and passionate community. 
+
+A career in this profession gives a possibility to work remotely and constantly improve your skills. I'm ready to develop further in a new field with an active and passionate community.
+
 -----
 ### Skills
 * HTML, CSS

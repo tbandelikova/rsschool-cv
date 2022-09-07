@@ -36,13 +36,13 @@ var countBits = function(n) {
 -----
 ### Experience, Educational projects
 * **Currency Converter**
-    [https://github.com/tbandelikova/Project-M3]("Currency Converter")
+    [https://github.com/tbandelikova/Project-M3]
     HTML, CSS, Java Script
 * **Catalog of precious coins**
-    [https://github.com/tbandelikova/catalogue2]("Catalog of precious coins")
+    [https://github.com/tbandelikova/catalogue2]
     Java Script (React), CSS, Bootstrap
 * **Game Dice**
-    [https://codesandbox.io/s/inspiring-poincare-mm4pes?file=/src/Dice.js]("Game Dice")
+    [https://codesandbox.io/s/inspiring-poincare-mm4pes?file=/src/Dice.js]
     Java Script (React), CSS
 -----
 ### English level

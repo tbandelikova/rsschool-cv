@@ -35,14 +35,14 @@ var countBits = function(n) {
     *2003 - 2008*
 -----
 ### Experience, Educational projects
-* **Catalog of precious coins**
-    [https://github.com/tbandelikova/catalogue2]
-    Java Script (React), CSS, Bootstrap
 * **Currency Converter**
-    [https://github.com/tbandelikova/Project-M3]
+    [https://github.com/tbandelikova/Project-M3]("Currency Converter")
     HTML, CSS, Java Script
+* **Catalog of precious coins**
+    [https://github.com/tbandelikova/catalogue2]("Catalog of precious coins")
+    Java Script (React), CSS, Bootstrap
 * **Game Dice**
-    [https://codesandbox.io/s/inspiring-poincare-mm4pes?file=/src/Dice.js]
+    [https://codesandbox.io/s/inspiring-poincare-mm4pes?file=/src/Dice.js]("Game Dice")
     Java Script (React), CSS
 -----
 ### English level

@@ -1,0 +1,1 @@
+const setTheme = () => document.documentElement.classList.toggle('dark');

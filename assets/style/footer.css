@@ -1,0 +1,22 @@
+.footer {
+    background-color: white;
+}
+.footer-wrap {
+    max-width: 1170px;
+    padding: 0.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-wrap a {
+    text-decoration: none;
+    color: #1e1e24;
+    transition: transform 0.3s linear;
+}
+.footer-wrap a:hover {
+    transform: scale(1.05);
+}
+.school {
+    width: 5rem;
+    height: 3rem;
+}

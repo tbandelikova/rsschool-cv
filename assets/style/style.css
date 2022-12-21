@@ -40,7 +40,7 @@ h1 {
     text-transform: uppercase;
 }
 
-h3::after {
+h2::after {
     content: "";
     width: 10rem;
     height: 3px;
@@ -80,7 +80,7 @@ h3::after {
     padding: 1rem 2rem;
 }
 
-.box h3 {
+.box h2 {
     margin-bottom: 0.5rem;
 }
 

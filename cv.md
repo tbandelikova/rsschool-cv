@@ -7,6 +7,7 @@
 * discord: TatsianaB (@tbandelikova)
 * LinkedIn: [https://www.linkedin.com/in/tatsiana-bandelikova/]
 * GitHub: [https://github.com/tbandelikova] ("tbandelikova")
+
 -----
 ### Summary
 Junior Frontend developer motivated to learn new skills and to work hard. Thanks to my previous work experience I know how to plan my schedule responsibly and meet deadlines. I'm patient and diligent in work and study.

@@ -61,6 +61,7 @@ h2::after {
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 0.5rem;
+    scroll-behavior: smooth;
 }
 
 .foto, .eng-lvl {

@@ -5,8 +5,8 @@
 * phone number: +37544-5970340
 * e-mail: tat.bandelikova@gmail.com
 * discord: TatsianaB (@tbandelikova)
-* LinkedIn: [https://www.linkedin.com/in/tatsiana-bandelikova/]
-* GitHub: [https://github.com/tbandelikova] ("tbandelikova")
+* LinkedIn: [Tatsiana Bandelikova](https://www.linkedin.com/in/tatsiana-bandelikova/)
+* GitHub: [tbandelikova](https://github.com/tbandelikova)
 -----
 ### Summary
 Junior Frontend developer motivated to learn new skills and to work hard. Thanks to my previous work experience I know how to plan my schedule responsibly and meet deadlines. I'm patient and diligent in work and study.
@@ -15,9 +15,9 @@ A career in this profession gives a possibility to work remotely and constantly 
 
 -----
 ### Skills
-* HTML, CSS
-* Java Script
-* VSCode, GitHub
+* HTML, CSS, Sass
+* JS, TS, React
+* VSCode, GitHub, Figma
 -----
 ### Code Example
 **Bit Counting Kata from Codewars:** Write a function that takes an integer as input, and returns the number of bits that are equal to one in the binary representation of that number. You can guarantee that input is non-negative.
@@ -30,7 +30,8 @@ var countBits = function(n) {
 -----
 ### Courses
 * **The Rolling Scopes School**
-    *September 2022 - ...*
+    *JAVASCRIPT/FRONT-END 2023Q1(JAVASCRIPT)*, 
+    *REACT 2023 Q1 (REACT)*
 * **Algoritmika Coding Bootcamp**
     *October 2021 - May 2022 (8 months)*
 * **Belarusian State Economic University**

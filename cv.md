@@ -51,4 +51,4 @@ var countBits = function(n) {
 ### English level
 Intermediate (B1)
 
-![eng-lvl](/eng-lvl.png "EF Set")
+!["EF Set"](assets/img/eng-lvl.png)

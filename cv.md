@@ -9,9 +9,9 @@
 * GitHub: [tbandelikova](https://github.com/tbandelikova)
 -----
 ### Summary
-Junior Frontend developer motivated to learn new skills and to work hard. Thanks to my previous work experience I know how to plan my schedule responsibly and meet deadlines. I'm patient and diligent in work and study.
+As a frontend developer, I am highly motivated to continually expand my skills and work diligently. Thanks to my prior work experience, I have developed the ability to responsibly manage my schedule and meet deadlines. I approach both work and study with patience and diligence.
 
-A career in this profession gives a possibility to work remotely and constantly improve your skills. I'm ready to develop further in a new field as part of a team of active and passionate specialists.
+Pursuing a career in this field offers the opportunity to work remotely and continuously enhance one's expertise. I am eager to further develop my abilities as part of a team of active and passionate specialists in a new domain.
 
 -----
 ### Skills

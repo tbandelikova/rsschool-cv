@@ -30,7 +30,7 @@ var countBits = function(n) {
 -----
 ### Courses
 * **The Rolling Scopes School**
-    *JAVASCRIPT/FRONT-END 2023Q1(JAVASCRIPT)*, 
+    *JAVASCRIPT/FRONT-END 2023Q1(JAVASCRIPT)*,
     *REACT 2023 Q1 (REACT)*
 * **Algoritmika Coding Bootcamp**
     *October 2021 - May 2022 (8 months)*

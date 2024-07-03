@@ -1,12 +1,14 @@
 # Tatsiana Bandelikova
 ### *Frontend Developer*
+
 -----
 ### Contacts
-* phone number: +37544-5970340
-* e-mail: tat.bandelikova@gmail.com
-* discord: TatsianaB (@tbandelikova)
+* Phone number: +37544-5970340
+* E-mail: tat.bandelikova@gmail.com
+* Discord: TatsianaB (@tbandelikova)
 * LinkedIn: [Tatsiana Bandelikova](https://www.linkedin.com/in/tatsiana-bandelikova/)
 * GitHub: [tbandelikova](https://github.com/tbandelikova)
+
 -----
 ### Summary
 As a frontend developer, I am highly motivated to continually expand my skills and work diligently. Thanks to my prior work experience, I have developed the ability to responsibly manage my schedule and meet deadlines. I approach both work and study with patience and diligence.
@@ -18,6 +20,7 @@ Pursuing a career in this field offers the opportunity to work remotely and cont
 * HTML, CSS, Sass
 * JS, TS, React
 * VSCode, GitHub, Figma
+
 -----
 ### Code Example
 **Bit Counting Kata from Codewars:** Write a function that takes an integer as input, and returns the number of bits that are equal to one in the binary representation of that number. You can guarantee that input is non-negative.
@@ -36,6 +39,7 @@ var countBits = function(n) {
     *October 2021 - May 2022 (8 months)*
 * **Belarusian State Economic University**
     *2003 - 2008*
+
 -----
 ### Experience, Educational projects
 * **Currency Converter**
@@ -47,6 +51,7 @@ var countBits = function(n) {
 * **Game Dice**
     [https://codesandbox.io/s/inspiring-poincare-mm4pes?file=/src/Dice.js]
     Java Script (React), CSS
+
 -----
 ### English level
 Intermediate (B1)

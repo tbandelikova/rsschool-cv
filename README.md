@@ -1,4 +1,7 @@
 # rsschool-cv
-* https://tbandelikova.github.io/rsschool-cv/
 
-* https://tbandelikova.github.io/rsschool-cv/cv
+* [cv-page](https://tbandelikova.github.io/rsschool-cv/)
+
+
+* [cv-markdown](https://tbandelikova.github.io/rsschool-cv/cv)
+

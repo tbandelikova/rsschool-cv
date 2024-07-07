@@ -1,0 +1,37 @@
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: var(--mainBgColor);
+}
+.wrap {
+    max-width: 1170px;
+    padding: 0.5rem;
+}
+.wrap, .navigate {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.navigate-item {
+    margin-right: 0.5rem;
+    transition: transform 0.3s linear;
+}
+.navigate-item:hover {
+    transform: translateY(-0.5rem);
+}
+.navigate-item a {
+    text-decoration: none;
+    color: var(--mainTextColor);
+}
+.theme {
+    width: 3rem;
+    height: 3rem;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+    transition: transform 0.3s;
+}
+.theme:active {
+    transform: translateY(0.5rem);
+}
